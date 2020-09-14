@@ -105,6 +105,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJTFUNVR
 
+[ProjectVariant1]
+UniqueID=4D41B63F-7A91-4855-A080-E97E06A2A9A4
+Description=Solar
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=Jext|UniqueId=\MPSLARPA\BYCSHIMP|Kind=1|AlternatePart= 
+Variation2=Designator=J5|UniqueId=\MPSLARPA\YCKNWRKU|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
