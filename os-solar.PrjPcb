@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -114,6 +114,46 @@ VariationCount=2
 Variation1=Designator=Jext|UniqueId=\MPSLARPA\BYCSHIMP|Kind=1|AlternatePart= 
 Variation2=Designator=J5|UniqueId=\MPSLARPA\YCKNWRKU|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for os-solar\Design Rule Check - os-solar.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=os-solar 26-09-2020 7-47-24 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=os-solar 26-09-2020 7-48-33 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=os-solar 26-09-2020 7-50-03 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=os-solar 26-09-2020 7-51-17 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=os-solar 26-09-2020 7-51-52 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=os-solar 26-09-2020 7-53-31 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=os-solar 26-09-2020 7-55-24 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=os-solar 26-09-2020 7-57-06 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=os-solar 26-09-2020 7-59-23 PM.WAS
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -234,7 +274,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON XP-700 Series
+TargetPrinter=EPSON382DB4 (XP-700 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -302,12 +342,6 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -739,7 +773,7 @@ OutputDefault1=0
 [Modification Levels]
 Type1=1
 Type2=1
-Type3=1
+Type3=0
 Type4=1
 Type5=1
 Type6=1
@@ -754,7 +788,7 @@ Type14=1
 Type15=1
 Type16=1
 Type17=1
-Type18=1
+Type18=0
 Type19=1
 Type20=1
 Type21=1
@@ -854,8 +888,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -924,8 +956,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1073,7 +1103,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1094,7 +1123,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=kaasa5.DbLib/ALTIUM.Capacitor-Ceramic-SMD
@@ -1548,7 +1576,6 @@ ModelUpdate26=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
