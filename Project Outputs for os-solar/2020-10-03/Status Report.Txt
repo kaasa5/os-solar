@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [os-solar.PcbDoc]
+   Generated File[os-solar.GTO]
+   Generated File[os-solar.GTS]
+   Generated File[os-solar.GTL]
+   Generated File[os-solar.GBL]
+   Generated File[os-solar.GBS]
+   Generated File[os-solar.GBO]
+   Generated File[os-solar.GM1]
+   Generated File[os-solar.GPT]
+   Generated File[os-solar.GPB]
+   Generated File[os-solar.RUL]
+   Generated File[os-solar.EXTREP]
+   Generated File[os-solar.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 9:54:30 AM On 3/10/2020

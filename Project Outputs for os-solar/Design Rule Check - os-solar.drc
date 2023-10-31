@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\AltiumData\Projects\os-solar\os-solar.PcbDoc
-Date     : 27/09/2020
-Time     : 10:18:41 PM
+Date     : 3/10/2020
+Time     : 9:50:14 AM
 
 Processing Rule : Clearance Constraint (Gap=0.6mm) (inComponent('FID1') or inComponent('FID2')),(All)
 Rule Violations :0
@@ -9,7 +9,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.14mm) (HasFootprint('SPGAP-15')),(HasFootprint('SPGAP-15'))
+Processing Rule : Clearance Constraint (Gap=0.155mm) (HasFootprint('SPGAP-15')),(HasFootprint('SPGAP-15'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -30,4 +30,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
